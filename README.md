@@ -41,7 +41,7 @@ VSCode的快捷键继承了一些IDE风格，有VS的身影，也有Emacs的身�
 |Ctrl + Shift + K|删除行|
 |Ctrl + Enter|在当前行下插入新的一行|
 |Ctrl + Shift + Enter|在当前行上插入新的一行|
-|Ctrl + Shift + \| 匹配花括号的闭合处，跳转|
+|Ctrl + Shift + \ | 匹配花括号的闭合处，跳转|
 |Ctrl + ] / [| 行缩进|
 |Home|光标跳转到行头|
 |End|光标跳转到行尾|
@@ -95,7 +95,7 @@ VSCode的快捷键继承了一些IDE风格，有VS的身影，也有Emacs的身�
 |Alt + Enter|选中所有出现在查询中的|
 |Ctrl + D|匹配当前选中的词汇或者行，再次选中-可操作|
 |Ctrl + K Ctrl + D|移动当前选择到下个匹配选择的位置(光标选定)|
-|Alt + C / R / W||不分大小写/使用正则/全字匹配|
+|Alt + C / R / W |不分大小写/使用正则/全字匹配|
 
 
 
@@ -153,7 +153,7 @@ VSCode的快捷键继承了一些IDE风格，有VS的身影，也有Emacs的身�
 |:---|:---|
 |Ctrl + F4, Ctrl + W|关闭编辑器|
 |Ctrl + k F|关闭当前打开的文件夹|
-|Ctrl + \|切割编辑窗口|
+|Ctrl + \ |切割编辑窗口|
 |Ctrl + 1/2/3|切换焦点在不同的切割窗口|
 |Ctrl + K Ctrl <-/->|切换焦点在不同的切割窗口|
 |Ctrl + Shift + PgUp/PgDown|切换标签页的位置|
